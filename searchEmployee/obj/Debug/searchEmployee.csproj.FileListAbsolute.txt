@@ -1,0 +1,11 @@
+D:\CODES\C#\DisconnectedMimari\searchEmployee\bin\Debug\searchEmployee.exe.config
+D:\CODES\C#\DisconnectedMimari\searchEmployee\bin\Debug\searchEmployee.exe
+D:\CODES\C#\DisconnectedMimari\searchEmployee\bin\Debug\searchEmployee.pdb
+D:\CODES\C#\DisconnectedMimari\searchEmployee\obj\Debug\searchEmployee.csproj.AssemblyReference.cache
+D:\CODES\C#\DisconnectedMimari\searchEmployee\obj\Debug\searchEmployee.Form1.resources
+D:\CODES\C#\DisconnectedMimari\searchEmployee\obj\Debug\searchEmployee.Properties.Resources.resources
+D:\CODES\C#\DisconnectedMimari\searchEmployee\obj\Debug\searchEmployee.csproj.GenerateResource.cache
+D:\CODES\C#\DisconnectedMimari\searchEmployee\obj\Debug\searchEmployee.csproj.CoreCompileInputs.cache
+D:\CODES\C#\DisconnectedMimari\searchEmployee\obj\Debug\searchEmployee.exe
+D:\CODES\C#\DisconnectedMimari\searchEmployee\obj\Debug\searchEmployee.pdb
+D:\CODES\C#\DisconnectedMimari\searchEmployee\obj\Debug\searchEmployee.Form2.resources

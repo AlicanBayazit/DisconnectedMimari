@@ -1,0 +1,13 @@
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.exe.config
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.exe
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.pdb
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.AssemblyReference.cache
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Form1.resources
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Properties.Resources.resources
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.GenerateResource.cache
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.CoreCompileInputs.cache
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.exe
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.pdb
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Form2.resources
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Form3.resources
+D:\CODES\C#\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.SuggestedBindingRedirects.cache
